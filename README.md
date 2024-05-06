@@ -9,7 +9,7 @@
 | Framework              | PyTorch version >= 1.10 | [https://pytorch.org/](https://pytorch.org/)                           |
 | Environment Manager    | Anaconda                | https://www.anaconda.com/download/success                           |
 
-### `<center><span style="color: red;">`⚠️WARNING⚠️`</center>`
+### <center><span style="color: red;">⚠️WARNING⚠️</span></center>
 
 <center><span style="color: red;">Before beginning this tutorial, ensure that you have approximately 6 GB of available space on your computer. This is necessary because there are several large files required for the tutorial, and having sufficient free space will facilitate the process.</span></center>
 
