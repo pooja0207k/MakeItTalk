@@ -52,7 +52,7 @@ The activated environment will now be displayed within parentheses at the beginn
 
 MakeItTalk was trained using the PyTorch framework, so you'll need to install PyTorch by visiting its official website (https://pytorch.org/) and choosing the configuration that corresponds to your system. For example, below is a configuration tailored for a Windows OS with a GPU card that supports CUDA 12.1.
 
-<img width="452" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/ffe22f7f-0381-4ace-9214-e6e6be2dc454">
+<img width="452" alt="image" src="https://github.com/pooja0207k/MakeItTalk/blob/main/metadta/Screenshot%202024-05-06%20172741.png">
 
 However, to avoid clashes due to packages version change, it is highly recommended to use the following command to install PyTorch.
 
@@ -72,7 +72,7 @@ For Windows users, you can install FFmpeg by following the guidelines outlined i
 
 In order to get the code and try using MakeItTalk via the GUI, go to this GitHub URL: https://github.com/PhurinutR/MakeItTalk_Demo and Download **MakeItTalk** repository by clicking **Code ⇾ Download ZIP** as shown in the picture below.
 
-<img width="451" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/3a100d95-9c8a-4875-92dc-2386bbc72b60">
+<img width="451" alt="image" src="https://github.com/pooja0207k/MakeItTalk/blob/main/metadta/Screenshot%202024-05-06%20172835.png">
 
 After downloading, extract **MakeItTalk-main.zip** and check what you have inside. At this point, you should be able to find 2 directories under the **MakeItTalk-main** folder.
 
