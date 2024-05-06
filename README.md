@@ -70,7 +70,7 @@ For Windows users, you can install FFmpeg by following the guidelines outlined i
 
 **Note:** If you are given the code from your supervisor, please skip this step, and depending on your operation system, copy either **MakeItTalk_Windows** directory to your preferred working directory.
 
-In order to get the code and try using MakeItTalk via the GUI, go to this GitHub URL: https://github.com/PhurinutR/MakeItTalk_Demo and Download **MakeItTalk** repository by clicking **Code ⇾ Download ZIP** as shown in the picture below.
+In order to get the code and try using MakeItTalk via the GUI, go to this GitHub URL: https://github.com/pooja0207k/MakeItTalk and Download **MakeItTalk** repository by clicking **Code ⇾ Download ZIP** as shown in the picture below.
 
 <img width="451" alt="image" src="https://github.com/pooja0207k/MakeItTalk/blob/main/metadta/Screenshot%202024-05-06%20172835.png">
 
