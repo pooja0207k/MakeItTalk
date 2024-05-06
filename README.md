@@ -68,7 +68,7 @@ For Windows users, you can install FFmpeg by following the guidelines outlined i
 
 #### 5. Get The Code to Interact with MakeItTalk
 
-**Note:** If you are given the code from your supervisor, please skip this step, and depending on your operation system, copy either **MakeItTalk_Windows** directory to your preferred working directory.
+**Note:** If you are given the code from your supervisor, please skip this step, and depending on your operation system, copy either **MakeItTalk** directory to your preferred working directory.
 
 In order to get the code and try using MakeItTalk via the GUI, go to this GitHub URL: https://github.com/pooja0207k/MakeItTalk and Download **MakeItTalk** repository by clicking **Code ⇾ Download ZIP** as shown in the picture below.
 
@@ -78,19 +78,19 @@ After downloading, extract **MakeItTalk-main.zip** and check what you have insid
 
 <img width="362" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/d08a1827-b8ee-4762-898d-c707aa6a0ce7">
 
-if you are using Windows select **MakeItTalk_Windows** directory, cut, and paste it to a directory that you want to work on, for example, **D:** drive, **C:** drive, or others.
+if you are using Windows select **MakeItTalk** directory, cut, and paste it to a directory that you want to work on, for example, **D:** drive, **C:** drive, or others.
 
-**Note:** feel free to remove the **MakeItTalk-main** folder after cutting **MakeItTalk_Windows** to your working directory.
+**Note:** feel free to remove the **MakeItTalk-main** folder after cutting **MakeItTalk** to your working directory.
 
 #### 6. Python Packages
 
-Next, through the terminal or Anaconda prompt opened earlier, navigate yourself to **MakeItTalk_Windows** that you just pasted it under your working directory using the command below.
+Next, through the terminal or Anaconda prompt opened earlier, navigate yourself to **MakeItTalk** that you just pasted it under your working directory using the command below.
 
 ```
 cd [path to your working directory]/[replace this with MakeItTalk_Windows]
 ```
 
-Under **MakeItTalk_Windows**, requirements.txt file is provided to help you install the packages that you need.
+Under **MakeItTalk**, requirements.txt file is provided to help you install the packages that you need.
 
 <img width="432" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/9d31a2d9-6401-41c9-ae67-2e2af23b88a1">
 
@@ -102,23 +102,9 @@ pip install -r requirements.txt
 
 #### 7. Download Weighting of Pre-trained Models
 
-**Note:** If you are given the code from your supervisor, please skip this step.
+**Note:** This is a confidencial folder, It contains main encoders built by authors. Due to copyright issues we cannot disclose these files in our repo. If you are given the code from your supervisor, please skip this step.
 
-Go back to the GitHub **MakeItTalk** repository and check out the menu called **“Releases”**.
-
-<img width="432" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/78f6237f-0090-497b-b119-7f1e2bca8f08">
-
-Here, you should find two releases called “ckpt” and “checkpoints”.
-
-<img width="440" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/169fa922-f7cb-486b-ac1a-3d12906c071c">
-
-For ckpt, if you are using Windows, you can download them to **MakeItTalk_Windows/examples/ckpt** directory.
-
-<img width="411" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/2c70eedb-c2da-4a06-a396-c828d370f054">
-
-In the same manner, download the five files below to **MakeItTalk_Windows/checkpoints** directory if you are using Windows.
-
-<img width="409" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/6a961b3a-6766-4614-8790-12b552d9cb83">
+[Image]
 
 ### Animate Your Photo
 
