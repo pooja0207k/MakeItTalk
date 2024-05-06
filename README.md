@@ -1,4 +1,4 @@
-
+ 
 
  ![image](https://github.com/pooja0207k/MakeItTalk/blob/main/metadta/paul%20bhai.jpeg)
 
@@ -23,7 +23,7 @@
 
 MakeItTalk is a technique that creates a talking head video by combining a still image of a person's face with an audio clip. This method synthesizes facial movements that correspond to the speech in the audio, making the person in the image appear as if they are speaking the words. Additionally, MakeItTalk adds facial expressions that match the content and tone of the speech, resulting in a more natural and expressive talking head video that is synchronized with the audio input.
 
- ![image](https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/b9485ab9-12e0-4796-a495-7c4aec1876b1)
+![image](https://github.com/pooja0207k/MakeItTalk/blob/main/metadta/paul%20bhai.jpeg)
 
 In this practical tutorial section, you'll be guided through the process of converting a facial photograph and an audio file into a cohesive video using the provided graphical user interface (GUI).
 
